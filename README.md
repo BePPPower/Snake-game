@@ -10,7 +10,6 @@
 
 Note：Linux也可以换成windows，sublime文本编辑器可以换成DEVc++之类的IDE 。
 
-## 运行效果
 
 ## 运行步骤
 
